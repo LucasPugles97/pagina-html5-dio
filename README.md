@@ -1,4 +1,4 @@
-# pagina-html5-dio
+# Página HTML5 Desafio DIO
 
 Página HTML criada para o curso de desenvolvimento web.
 
