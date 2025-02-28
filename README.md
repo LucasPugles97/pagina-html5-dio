@@ -15,9 +15,7 @@ HTML5
 Clique no link abaixo para visualizar a página online:
 👉 [Acessar Página](https://lucaspugles97.github.io/pagina-html5-dio/)
 
-📄 Autor
-
-Lucas Pugles
+📄 Autor: Lucas Pugles
 
 Feito com ❤️ para o curso de HTML Developer!
 
